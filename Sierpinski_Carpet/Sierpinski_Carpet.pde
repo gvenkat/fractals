@@ -1,4 +1,5 @@
 
+// http://en.wikipedia.org/wiki/Sierpinski_carpet
 
 int WIDTH  = 400;
 int HEIGHT = 400;
